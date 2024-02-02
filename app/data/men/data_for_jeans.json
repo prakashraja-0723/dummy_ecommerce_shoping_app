@@ -1,0 +1,3138 @@
+{  "products": [
+    {
+      "id": 205005660,
+      "name": "DTT stretch skinny fit jeans in gray",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Gray",
+      "colourWayId": 205005688,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603817,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-jeans-in-gray/prd/205005660?clr=gray&colourWayId=205005688",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-gray/205005660-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-gray/205005660-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-gray/205005660-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-gray/205005660-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-gray/205005660-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 203910830,
+      "name": "True Religion slim jeans in mid blue",
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "$130.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 241,
+          "text": "$241.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "blue",
+      "colourWayId": 203910831,
+      "brandName": "True Religion",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 123393638,
+      "productType": "Product",
+      "url": "true-religion/true-religion-slim-jeans-in-mid-blue/prd/203910830?clr=blue&colourWayId=203910831",
+      "imageUrl": "images.asos-media.com/products/true-religion-slim-jeans-in-mid-blue/203910830-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/true-religion-slim-jeans-in-mid-blue/203910830-2",
+        "images.asos-media.com/products/true-religion-slim-jeans-in-mid-blue/203910830-3",
+        "images.asos-media.com/products/true-religion-slim-jeans-in-mid-blue/203910830-4"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205622605,
+      "name": "Wrangler Greensboro jeans in black",
+      "price": {
+        "current": {
+          "value": 104,
+          "text": "$104.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 148,
+          "text": "$148.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205622611,
+      "brandName": "Wrangler",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 133432071,
+      "productType": "Product",
+      "url": "wrangler/wrangler-greensboro-jeans-in-black/prd/205622605?clr=black&colourWayId=205622611",
+      "imageUrl": "images.asos-media.com/products/wrangler-greensboro-jeans-in-black/205622605-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/wrangler-greensboro-jeans-in-black/205622605-2",
+        "images.asos-media.com/products/wrangler-greensboro-jeans-in-black/205622605-3",
+        "images.asos-media.com/products/wrangler-greensboro-jeans-in-black/205622605-4",
+        "images.asos-media.com/products/wrangler-greensboro-jeans-in-black/205622605-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005955,
+      "name": "DTT stretch skinny fit jeans in light blue",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205005967,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603809,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-jeans-in-light-blue/prd/205005955?clr=blue&colourWayId=205005967",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/205005955-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/205005955-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/205005955-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/205005955-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/205005955-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205193333,
+      "name": "Only & Sons slim fit jeans in washed black",
+      "price": {
+        "current": {
+          "value": 51,
+          "text": "$51.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 63,
+          "text": "$63.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205193338,
+      "brandName": "ONLY & SONS",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132404959,
+      "productType": "Product",
+      "url": "only-sons/only-sons-slim-fit-jeans-in-washed-black/prd/205193333?clr=black&colourWayId=205193338",
+      "imageUrl": "images.asos-media.com/products/only-sons-slim-fit-jeans-in-washed-black/205193333-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/only-sons-slim-fit-jeans-in-washed-black/205193333-2",
+        "images.asos-media.com/products/only-sons-slim-fit-jeans-in-washed-black/205193333-3",
+        "images.asos-media.com/products/only-sons-slim-fit-jeans-in-washed-black/205193333-4",
+        "images.asos-media.com/products/only-sons-slim-fit-jeans-in-washed-black/205193333-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": true,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005369,
+      "name": "DTT stretch skinny fit jeans in indigo",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 205005373,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603808,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-jeans-in-indigo/prd/205005369?clr=navy&colourWayId=205005373",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-indigo/205005369-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-indigo/205005369-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-indigo/205005369-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-indigo/205005369-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-indigo/205005369-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005371,
+      "name": "DTT stretch skinny fit ripped jeans in distressed dark blue",
+      "price": {
+        "current": {
+          "value": 40,
+          "text": "$40.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 47,
+          "text": "$47.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 205005390,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603812,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-dark-blue/prd/205005371?clr=navy&colourWayId=205005390",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-dark-blue/205005371-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-dark-blue/205005371-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-dark-blue/205005371-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-dark-blue/205005371-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-dark-blue/205005371-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": true,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005448,
+      "name": "DTT stretch slim fit jeans in washed black",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205005474,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603793,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-slim-fit-jeans-in-washed-black/prd/205005448?clr=black&colourWayId=205005474",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-washed-black/205005448-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-washed-black/205005448-2",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-washed-black/205005448-3",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-washed-black/205005448-4",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-washed-black/205005448-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005533,
+      "name": "DTT stretch tapered fit jeans in light blue",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 52,
+          "text": "$52.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205005543,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603790,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-tapered-fit-jeans-in-light-blue/prd/205005533?clr=blue&colourWayId=205005543",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-light-blue/205005533-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-light-blue/205005533-2",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-light-blue/205005533-3",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-light-blue/205005533-4",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-light-blue/205005533-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005534,
+      "name": "DTT stretch skinny fit jeans in mid blue",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205005564,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603807,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-jeans-in-mid-blue/prd/205005534?clr=blue&colourWayId=205005564",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-mid-blue/205005534-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-mid-blue/205005534-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-mid-blue/205005534-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-mid-blue/205005534-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-mid-blue/205005534-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005591,
+      "name": "DTT stretch skinny fit jeans in washed black",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205005607,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603816,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-jeans-in-washed-black/prd/205005591?clr=black&colourWayId=205005607",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-washed-black/205005591-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-washed-black/205005591-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-washed-black/205005591-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-washed-black/205005591-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-washed-black/205005591-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005594,
+      "name": "DTT stretch tapered fit cargo jeans in black",
+      "price": {
+        "current": {
+          "value": 40,
+          "text": "$40.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 61,
+          "text": "$61.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205005608,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603791,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-tapered-fit-cargo-jeans-in-black/prd/205005594?clr=black&colourWayId=205005608",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-tapered-fit-cargo-jeans-in-black/205005594-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-cargo-jeans-in-black/205005594-2",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-cargo-jeans-in-black/205005594-3",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-cargo-jeans-in-black/205005594-4",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-cargo-jeans-in-black/205005594-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005770,
+      "name": "DTT stretch skinny fit ripped jeans in distressed washed black",
+      "price": {
+        "current": {
+          "value": 40,
+          "text": "$40.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 47,
+          "text": "$47.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205005808,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603814,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-washed-black/prd/205005770?clr=black&colourWayId=205005808",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-washed-black/205005770-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-washed-black/205005770-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-washed-black/205005770-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-washed-black/205005770-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-ripped-jeans-in-distressed-washed-black/205005770-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": true,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005954,
+      "name": "DTT stretch slim fit jeans in indigo",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 205005966,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603794,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-slim-fit-jeans-in-indigo/prd/205005954?clr=navy&colourWayId=205005966",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-indigo/205005954-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-indigo/205005954-2",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-indigo/205005954-3",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-indigo/205005954-4",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-indigo/205005954-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205006018,
+      "name": "DTT stretch skinny fit jeans in light stone",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NEUTRAL",
+      "colourWayId": 205006030,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603810,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-jeans-in-light-stone/prd/205006018?clr=neutral&colourWayId=205006030",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-stone/205006018-1-neutral",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-stone/205006018-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-stone/205006018-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-stone/205006018-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-stone/205006018-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205006090,
+      "name": "DTT stretch tapered fit jeans in washed black",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 52,
+          "text": "$52.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205006094,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603789,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-tapered-fit-jeans-in-washed-black/prd/205006090?clr=black&colourWayId=205006094",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-washed-black/205006090-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-washed-black/205006090-2",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-washed-black/205006090-3",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-washed-black/205006090-4",
+        "images.asos-media.com/products/dtt-stretch-tapered-fit-jeans-in-washed-black/205006090-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205006341,
+      "name": "DTT stretch skinny fit extreme rip jeans in distressed dark blue",
+      "price": {
+        "current": {
+          "value": 40,
+          "text": "$40.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 205006342,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603811,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-extreme-rip-jeans-in-distressed-dark-blue/prd/205006341?clr=navy&colourWayId=205006342",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-extreme-rip-jeans-in-distressed-dark-blue/205006341-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-extreme-rip-jeans-in-distressed-dark-blue/205006341-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-extreme-rip-jeans-in-distressed-dark-blue/205006341-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-extreme-rip-jeans-in-distressed-dark-blue/205006341-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-extreme-rip-jeans-in-distressed-dark-blue/205006341-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205347380,
+      "name": "Topman stretch skinny jeans in raw denim",
+      "price": {
+        "current": {
+          "value": 38.49,
+          "text": "$38.49"
+        },
+        "previous": {
+          "value": 54.99,
+          "text": "$54.99"
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Dark wash",
+      "colourWayId": 205347383,
+      "brandName": "Topman",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132762430,
+      "productType": "Product",
+      "url": "topman/topman-stretch-skinny-jeans-in-raw-denim/prd/205347380?clr=dark-wash&colourWayId=205347383",
+      "imageUrl": "images.asos-media.com/products/topman-stretch-skinny-jeans-in-raw-denim/205347380-1-darkwash",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/topman-stretch-skinny-jeans-in-raw-denim/205347380-2",
+        "images.asos-media.com/products/topman-stretch-skinny-jeans-in-raw-denim/205347380-3",
+        "images.asos-media.com/products/topman-stretch-skinny-jeans-in-raw-denim/205347380-4",
+        "images.asos-media.com/products/topman-stretch-skinny-jeans-in-raw-denim/205347380-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005440,
+      "name": "DTT rigid straight fit jeans in light blue",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 61,
+          "text": "$61.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205005463,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603766,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-rigid-straight-fit-jeans-in-light-blue/prd/205005440?clr=blue&colourWayId=205005463",
+      "imageUrl": "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-light-blue/205005440-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-light-blue/205005440-2",
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-light-blue/205005440-3",
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-light-blue/205005440-4",
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-light-blue/205005440-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005441,
+      "name": "DTT stretch super skinny jeans in dark blue",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 205005464,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603772,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-super-skinny-jeans-in-dark-blue/prd/205005441?clr=navy&colourWayId=205005464",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-dark-blue/205005441-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-dark-blue/205005441-2",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-dark-blue/205005441-3",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-dark-blue/205005441-4",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-dark-blue/205005441-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005462,
+      "name": "DTT stretch slim fit jeans in mid blue",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205005494,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603796,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-slim-fit-jeans-in-mid-blue/prd/205005462?clr=blue&colourWayId=205005494",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-mid-blue/205005462-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-mid-blue/205005462-2",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-mid-blue/205005462-3",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-mid-blue/205005462-4",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-mid-blue/205005462-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005592,
+      "name": "DTT stretch slim fit jeans in gray",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Gray",
+      "colourWayId": 205005609,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603798,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-slim-fit-jeans-in-gray/prd/205005592?clr=gray&colourWayId=205005609",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-gray/205005592-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-gray/205005592-2",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-gray/205005592-3",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-gray/205005592-4",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-gray/205005592-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005876,
+      "name": "DTT stretch super skinny jeans in washed black",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205005903,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603771,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-super-skinny-jeans-in-washed-black/prd/205005876?clr=black&colourWayId=205005903",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-washed-black/205005876-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-washed-black/205005876-2",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-washed-black/205005876-3",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-washed-black/205005876-4",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-washed-black/205005876-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205006017,
+      "name": "DTT stretch slim fit jeans in dark blue",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 205006031,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603795,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-slim-fit-jeans-in-dark-blue/prd/205006017?clr=navy&colourWayId=205006031",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-dark-blue/205006017-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-dark-blue/205006017-2",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-dark-blue/205006017-3",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-dark-blue/205006017-4",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-dark-blue/205006017-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": true,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205006163,
+      "name": "DTT rigid tapered fit ripped jeans in mid blue",
+      "price": {
+        "current": {
+          "value": 40,
+          "text": "$40.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 56,
+          "text": "$56.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205006179,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603785,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-rigid-tapered-fit-ripped-jeans-in-mid-blue/prd/205006163?clr=blue&colourWayId=205006179",
+      "imageUrl": "images.asos-media.com/products/dtt-rigid-tapered-fit-ripped-jeans-in-mid-blue/205006163-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-ripped-jeans-in-mid-blue/205006163-2",
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-ripped-jeans-in-mid-blue/205006163-3",
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-ripped-jeans-in-mid-blue/205006163-4",
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-ripped-jeans-in-mid-blue/205006163-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205152898,
+      "name": "DTT Tall stretch skinny fit jeans in distressed washed black",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 47,
+          "text": "$47.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205152899,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325509,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-tall-stretch-skinny-fit-jeans-in-distressed-washed-black/prd/205152898?clr=black&colourWayId=205152899",
+      "imageUrl": "images.asos-media.com/products/dtt-tall-stretch-skinny-fit-jeans-in-distressed-washed-black/205152898-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-tall-stretch-skinny-fit-jeans-in-distressed-washed-black/205152898-2",
+        "images.asos-media.com/products/dtt-tall-stretch-skinny-fit-jeans-in-distressed-washed-black/205152898-3",
+        "images.asos-media.com/products/dtt-tall-stretch-skinny-fit-jeans-in-distressed-washed-black/205152898-4",
+        "images.asos-media.com/products/dtt-tall-stretch-skinny-fit-jeans-in-distressed-washed-black/205152898-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205152921,
+      "name": "DTT Tall stretch super skinny jeans in washed black",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205152925,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325502,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-tall-stretch-super-skinny-jeans-in-washed-black/prd/205152921?clr=black&colourWayId=205152925",
+      "imageUrl": "images.asos-media.com/products/dtt-tall-stretch-super-skinny-jeans-in-washed-black/205152921-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-tall-stretch-super-skinny-jeans-in-washed-black/205152921-2",
+        "images.asos-media.com/products/dtt-tall-stretch-super-skinny-jeans-in-washed-black/205152921-3",
+        "images.asos-media.com/products/dtt-tall-stretch-super-skinny-jeans-in-washed-black/205152921-4",
+        "images.asos-media.com/products/dtt-tall-stretch-super-skinny-jeans-in-washed-black/205152921-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205152959,
+      "name": "DTT Plus stretch super skinny jeans in washed black",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205152966,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325499,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-plus-stretch-super-skinny-jeans-in-washed-black/prd/205152959?clr=black&colourWayId=205152966",
+      "imageUrl": "images.asos-media.com/products/dtt-plus-stretch-super-skinny-jeans-in-washed-black/205152959-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-plus-stretch-super-skinny-jeans-in-washed-black/205152959-2",
+        "images.asos-media.com/products/dtt-plus-stretch-super-skinny-jeans-in-washed-black/205152959-3",
+        "images.asos-media.com/products/dtt-plus-stretch-super-skinny-jeans-in-washed-black/205152959-4",
+        "images.asos-media.com/products/dtt-plus-stretch-super-skinny-jeans-in-washed-black/205152959-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205153006,
+      "name": "DTT Plus stretch skinny fit jeans in distressed washed black",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 47,
+          "text": "$47.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205153007,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325497,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-plus-stretch-skinny-fit-jeans-in-distressed-washed-black/prd/205153006?clr=black&colourWayId=205153007",
+      "imageUrl": "images.asos-media.com/products/dtt-plus-stretch-skinny-fit-jeans-in-distressed-washed-black/205153006-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-plus-stretch-skinny-fit-jeans-in-distressed-washed-black/205153006-2",
+        "images.asos-media.com/products/dtt-plus-stretch-skinny-fit-jeans-in-distressed-washed-black/205153006-3",
+        "images.asos-media.com/products/dtt-plus-stretch-skinny-fit-jeans-in-distressed-washed-black/205153006-4",
+        "images.asos-media.com/products/dtt-plus-stretch-skinny-fit-jeans-in-distressed-washed-black/205153006-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205153031,
+      "name": "DTT Tall stretch slim fit jeans in mid blue",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205153032,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325496,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-tall-stretch-slim-fit-jeans-in-mid-blue/prd/205153031?clr=blue&colourWayId=205153032",
+      "imageUrl": "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-mid-blue/205153031-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-mid-blue/205153031-2",
+        "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-mid-blue/205153031-3",
+        "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-mid-blue/205153031-4",
+        "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-mid-blue/205153031-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205153073,
+      "name": "DTT Plus rigid straight fit utility cargo jeans in washed black",
+      "price": {
+        "current": {
+          "value": 47,
+          "text": "$47.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 70,
+          "text": "$70.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205153076,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325505,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-plus-rigid-straight-fit-utility-cargo-jeans-in-washed-black/prd/205153073?clr=black&colourWayId=205153076",
+      "imageUrl": "images.asos-media.com/products/dtt-plus-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205153073-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-plus-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205153073-2",
+        "images.asos-media.com/products/dtt-plus-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205153073-3",
+        "images.asos-media.com/products/dtt-plus-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205153073-4",
+        "images.asos-media.com/products/dtt-plus-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205153073-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205153074,
+      "name": "DTT Plus stretch slim fit jeans in mid blue",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205153075,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325504,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-plus-stretch-slim-fit-jeans-in-mid-blue/prd/205153074?clr=blue&colourWayId=205153075",
+      "imageUrl": "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-mid-blue/205153074-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-mid-blue/205153074-2",
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-mid-blue/205153074-3",
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-mid-blue/205153074-4",
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-mid-blue/205153074-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005654,
+      "name": "DTT stretch super skinny jeans in mid blue",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 205005677,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603773,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-super-skinny-jeans-in-mid-blue/prd/205005654?clr=blue&colourWayId=205005677",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-mid-blue/205005654-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-mid-blue/205005654-2",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-mid-blue/205005654-3",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-mid-blue/205005654-4",
+        "images.asos-media.com/products/dtt-stretch-super-skinny-jeans-in-mid-blue/205005654-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 204775266,
+      "name": "French Connection slim fit jeans in dark blue",
+      "price": {
+        "current": {
+          "value": 61,
+          "text": "$61.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 122,
+          "text": "$122.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 204775295,
+      "brandName": "French Connection Mens",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 129250116,
+      "productType": "Product",
+      "url": "french-connection-mens/french-connection-slim-fit-jeans-in-dark-blue/prd/204775266?clr=navy&colourWayId=204775295",
+      "imageUrl": "images.asos-media.com/products/french-connection-slim-fit-jeans-in-dark-blue/204775266-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/french-connection-slim-fit-jeans-in-dark-blue/204775266-2",
+        "images.asos-media.com/products/french-connection-slim-fit-jeans-in-dark-blue/204775266-3",
+        "images.asos-media.com/products/french-connection-slim-fit-jeans-in-dark-blue/204775266-4",
+        "images.asos-media.com/products/french-connection-slim-fit-jeans-in-dark-blue/204775266-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 204783157,
+      "name": "French Connection Plus slim fit jeans in black",
+      "price": {
+        "current": {
+          "value": 61,
+          "text": "$61.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 122,
+          "text": "$122.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 204783160,
+      "brandName": "French Connection",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 129318751,
+      "productType": "Product",
+      "url": "french-connection/french-connection-plus-slim-fit-jeans-in-black/prd/204783157?clr=black&colourWayId=204783160",
+      "imageUrl": "images.asos-media.com/products/french-connection-plus-slim-fit-jeans-in-black/204783157-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/french-connection-plus-slim-fit-jeans-in-black/204783157-2",
+        "images.asos-media.com/products/french-connection-plus-slim-fit-jeans-in-black/204783157-3",
+        "images.asos-media.com/products/french-connection-plus-slim-fit-jeans-in-black/204783157-4",
+        "images.asos-media.com/products/french-connection-plus-slim-fit-jeans-in-black/204783157-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205152949,
+      "name": "DTT Tall stretch slim fit jeans in black",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205152955,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325507,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-tall-stretch-slim-fit-jeans-in-black/prd/205152949?clr=black&colourWayId=205152955",
+      "imageUrl": "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-black/205152949-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-black/205152949-2",
+        "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-black/205152949-3",
+        "images.asos-media.com/products/dtt-tall-stretch-slim-fit-jeans-in-black/205152949-4"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 202264631,
+      "name": "Levi's 512 slim taper jeans with knee rips in lightwash blue",
+      "price": {
+        "current": {
+          "value": 53.7,
+          "text": "$53.70"
+        },
+        "previous": {
+          "value": 89.5,
+          "text": "$89.50"
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "LIGHT BLUE",
+      "colourWayId": 202264646,
+      "brandName": "Levi's",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 116073146,
+      "productType": "Product",
+      "url": "levis/levis-512-slim-taper-jeans-with-knee-rips-in-lightwash-blue/prd/202264631?clr=light-blue&colourWayId=202264646",
+      "imageUrl": "images.asos-media.com/products/levis-512-slim-taper-jeans-with-knee-rips-in-lightwash-blue/202264631-1-lightblue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/levis-512-slim-taper-jeans-with-knee-rips-in-lightwash-blue/202264631-2",
+        "images.asos-media.com/products/levis-512-slim-taper-jeans-with-knee-rips-in-lightwash-blue/202264631-3",
+        "images.asos-media.com/products/levis-512-slim-taper-jeans-with-knee-rips-in-lightwash-blue/202264631-4",
+        "images.asos-media.com/products/levis-512-slim-taper-jeans-with-knee-rips-in-lightwash-blue/202264631-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 202264689,
+      "name": "Levi's skinny taper jeans in dark wash navy",
+      "price": {
+        "current": {
+          "value": 53.7,
+          "text": "$53.70"
+        },
+        "previous": {
+          "value": 89.5,
+          "text": "$89.50"
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "NAVY",
+      "colourWayId": 202264810,
+      "brandName": "Levi's",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 116073106,
+      "productType": "Product",
+      "url": "levis/levis-skinny-taper-jeans-in-dark-wash-navy/prd/202264689?clr=navy&colourWayId=202264810",
+      "imageUrl": "images.asos-media.com/products/levis-skinny-taper-jeans-in-dark-wash-navy/202264689-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/levis-skinny-taper-jeans-in-dark-wash-navy/202264689-2",
+        "images.asos-media.com/products/levis-skinny-taper-jeans-in-dark-wash-navy/202264689-3",
+        "images.asos-media.com/products/levis-skinny-taper-jeans-in-dark-wash-navy/202264689-4",
+        "images.asos-media.com/products/levis-skinny-taper-jeans-in-dark-wash-navy/202264689-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 203858771,
+      "name": "Levi's 551Z straight jeans in midwash blue",
+      "price": {
+        "current": {
+          "value": 70.2,
+          "text": "$70.20"
+        },
+        "previous": {
+          "value": 108,
+          "text": "$108.00"
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 203858786,
+      "brandName": "Levi's",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 123153829,
+      "productType": "Product",
+      "url": "levis/levis-551z-straight-jeans-in-midwash-blue/prd/203858771?clr=blue&colourWayId=203858786",
+      "imageUrl": "images.asos-media.com/products/levis-551z-straight-jeans-in-midwash-blue/203858771-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/levis-551z-straight-jeans-in-midwash-blue/203858771-2",
+        "images.asos-media.com/products/levis-551z-straight-jeans-in-midwash-blue/203858771-3",
+        "images.asos-media.com/products/levis-551z-straight-jeans-in-midwash-blue/203858771-4",
+        "images.asos-media.com/products/levis-551z-straight-jeans-in-midwash-blue/203858771-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 204686599,
+      "name": "Levi's 551z straight crop jeans in light blue wash",
+      "price": {
+        "current": {
+          "value": 76.93,
+          "text": "$76.93"
+        },
+        "previous": {
+          "value": 109.9,
+          "text": "$109.90"
+        },
+        "rrp": {
+          "value": null,
+          "text": ""
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "DREAM STONE",
+      "colourWayId": 204686600,
+      "brandName": "Levi's",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 128911284,
+      "productType": "Product",
+      "url": "levis/levis-551z-straight-crop-jeans-in-light-blue-wash/prd/204686599?clr=dream-stone&colourWayId=204686600",
+      "imageUrl": "images.asos-media.com/products/levis-551z-straight-crop-jeans-in-light-blue-wash/204686599-1-dreamstone",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/levis-551z-straight-crop-jeans-in-light-blue-wash/204686599-2",
+        "images.asos-media.com/products/levis-551z-straight-crop-jeans-in-light-blue-wash/204686599-3",
+        "images.asos-media.com/products/levis-551z-straight-crop-jeans-in-light-blue-wash/204686599-4",
+        "images.asos-media.com/products/levis-551z-straight-crop-jeans-in-light-blue-wash/204686599-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 204867872,
+      "name": "DTT stretch skinny fit jeans in light blue",
+      "price": {
+        "current": {
+          "value": 33,
+          "text": "$33.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 46,
+          "text": "$46.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "BLUE",
+      "colourWayId": 204867890,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 130584088,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-skinny-fit-jeans-in-light-blue/prd/204867872?clr=blue&colourWayId=204867890",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/204867872-1-blue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/204867872-2",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/204867872-3",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/204867872-4",
+        "images.asos-media.com/products/dtt-stretch-skinny-fit-jeans-in-light-blue/204867872-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005681,
+      "name": "DTT rigid tapered fit cargo jeans in washed black",
+      "price": {
+        "current": {
+          "value": 24,
+          "text": "$24.00"
+        },
+        "previous": {
+          "value": 40,
+          "text": "$40.00"
+        },
+        "rrp": {
+          "value": 61,
+          "text": "$61.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205005733,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603788,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-rigid-tapered-fit-cargo-jeans-in-washed-black/prd/205005681?clr=black&colourWayId=205005733",
+      "imageUrl": "images.asos-media.com/products/dtt-rigid-tapered-fit-cargo-jeans-in-washed-black/205005681-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-cargo-jeans-in-washed-black/205005681-2",
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-cargo-jeans-in-washed-black/205005681-3",
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-cargo-jeans-in-washed-black/205005681-4",
+        "images.asos-media.com/products/dtt-rigid-tapered-fit-cargo-jeans-in-washed-black/205005681-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205005965,
+      "name": "DTT stretch slim fit jeans in black",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205005979,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603792,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-stretch-slim-fit-jeans-in-black/prd/205005965?clr=black&colourWayId=205005979",
+      "imageUrl": "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-black/205005965-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-black/205005965-2",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-black/205005965-3",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-black/205005965-4",
+        "images.asos-media.com/products/dtt-stretch-slim-fit-jeans-in-black/205005965-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205006146,
+      "name": "DTT rigid straight fit jeans in washed black",
+      "price": {
+        "current": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "previous": {
+          "value": null,
+          "text": ""
+        },
+        "rrp": {
+          "value": 61,
+          "text": "$61.00"
+        },
+        "isMarkedDown": false,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205006165,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603764,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-rigid-straight-fit-jeans-in-washed-black/prd/205006146?clr=black&colourWayId=205006165",
+      "imageUrl": "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-washed-black/205006146-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-washed-black/205006146-2",
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-washed-black/205006146-3",
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-washed-black/205006146-4",
+        "images.asos-media.com/products/dtt-rigid-straight-fit-jeans-in-washed-black/205006146-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205152924,
+      "name": "DTT Plus stretch slim fit jeans in black",
+      "price": {
+        "current": {
+          "value": 22.2,
+          "text": "$22.20"
+        },
+        "previous": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "rrp": {
+          "value": 49,
+          "text": "$49.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205152926,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325508,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-plus-stretch-slim-fit-jeans-in-black/prd/205152924?clr=black&colourWayId=205152926",
+      "imageUrl": "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-black/205152924-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-black/205152924-2",
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-black/205152924-3",
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-black/205152924-4",
+        "images.asos-media.com/products/dtt-plus-stretch-slim-fit-jeans-in-black/205152924-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205152942,
+      "name": "DTT Tall rigid straight fit utility cargo jeans in washed black",
+      "price": {
+        "current": {
+          "value": 28.2,
+          "text": "$28.20"
+        },
+        "previous": {
+          "value": 47,
+          "text": "$47.00"
+        },
+        "rrp": {
+          "value": 70,
+          "text": "$70.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205152950,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325498,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-tall-rigid-straight-fit-utility-cargo-jeans-in-washed-black/prd/205152942?clr=black&colourWayId=205152950",
+      "imageUrl": "images.asos-media.com/products/dtt-tall-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205152942-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-tall-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205152942-2",
+        "images.asos-media.com/products/dtt-tall-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205152942-3",
+        "images.asos-media.com/products/dtt-tall-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205152942-4",
+        "images.asos-media.com/products/dtt-tall-rigid-straight-fit-utility-cargo-jeans-in-washed-black/205152942-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205153056,
+      "name": "DTT Plus rigid cropped tapered fit jeans in washed black",
+      "price": {
+        "current": {
+          "value": 21.54,
+          "text": "$21.54"
+        },
+        "previous": {
+          "value": 35.9,
+          "text": "$35.90"
+        },
+        "rrp": {
+          "value": 52,
+          "text": "$52.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205153057,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 132325506,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-plus-rigid-cropped-tapered-fit-jeans-in-washed-black/prd/205153056?clr=black&colourWayId=205153057",
+      "imageUrl": "images.asos-media.com/products/dtt-plus-rigid-cropped-tapered-fit-jeans-in-washed-black/205153056-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-plus-rigid-cropped-tapered-fit-jeans-in-washed-black/205153056-2",
+        "images.asos-media.com/products/dtt-plus-rigid-cropped-tapered-fit-jeans-in-washed-black/205153056-3",
+        "images.asos-media.com/products/dtt-plus-rigid-cropped-tapered-fit-jeans-in-washed-black/205153056-4",
+        "images.asos-media.com/products/dtt-plus-rigid-cropped-tapered-fit-jeans-in-washed-black/205153056-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    },
+    {
+      "id": 205006235,
+      "name": "DTT rigid cropped tapered fit jeans in black",
+      "price": {
+        "current": {
+          "value": 20.35,
+          "text": "$20.35"
+        },
+        "previous": {
+          "value": 37,
+          "text": "$37.00"
+        },
+        "rrp": {
+          "value": 56,
+          "text": "$56.00"
+        },
+        "isMarkedDown": true,
+        "isOutletPrice": true,
+        "currency": "USD"
+      },
+      "colour": "Black",
+      "colourWayId": 205006244,
+      "brandName": "Don't Think Twice",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 131603783,
+      "productType": "Product",
+      "url": "dont-think-twice/dtt-rigid-cropped-tapered-fit-jeans-in-black/prd/205006235?clr=black&colourWayId=205006244",
+      "imageUrl": "images.asos-media.com/products/dtt-rigid-cropped-tapered-fit-jeans-in-black/205006235-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/dtt-rigid-cropped-tapered-fit-jeans-in-black/205006235-2",
+        "images.asos-media.com/products/dtt-rigid-cropped-tapered-fit-jeans-in-black/205006235-3",
+        "images.asos-media.com/products/dtt-rigid-cropped-tapered-fit-jeans-in-black/205006235-4",
+        "images.asos-media.com/products/dtt-rigid-cropped-tapered-fit-jeans-in-black/205006235-5"
+      ],
+      "videoUrl": null,
+      "showVideo": false,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null,
+      "facetGroupings": [],
+      "advertisement": null
+    }
+  ],
+  "facets": [
+    {
+      "id": "discount_band",
+      "name": "Discount %",
+      "facetValues": [
+        {
+          "count": 53,
+          "id": "6",
+          "name": "60% or more",
+          "isSelected": false
+        },
+        {
+          "count": 91,
+          "id": "5",
+          "name": "50% - 60%",
+          "isSelected": false
+        },
+        {
+          "count": 88,
+          "id": "4",
+          "name": "40% - 50%",
+          "isSelected": false
+        },
+        {
+          "count": 113,
+          "id": "3",
+          "name": "30% - 40%",
+          "isSelected": false
+        },
+        {
+          "count": 53,
+          "id": "2",
+          "name": "20% - 30%",
+          "isSelected": false
+        },
+        {
+          "count": 16,
+          "id": "1",
+          "name": "Up to 20%",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "facetValues": [
+        {
+          "count": 128,
+          "id": "53",
+          "name": "ASOS DESIGN",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "14758",
+          "name": "ADPT",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "16573",
+          "name": "Aeropostale",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "12791",
+          "name": "AllSaints",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "13762",
+          "name": "Another Influence",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "12136",
+          "name": "Armani Exchange",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "15370",
+          "name": "Bershka",
+          "isSelected": false
+        },
+        {
+          "count": 8,
+          "id": "3234",
+          "name": "Bolongaro Trevor",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "13931",
+          "name": "Brave Soul",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "12507",
+          "name": "Calvin Klein Jeans",
+          "isSelected": false
+        },
+        {
+          "count": 9,
+          "id": "15878",
+          "name": "Collusion",
+          "isSelected": false
+        },
+        {
+          "count": 56,
+          "id": "16674",
+          "name": "Don't Think Twice",
+          "isSelected": false
+        },
+        {
+          "count": 13,
+          "id": "166",
+          "name": "Dr Denim",
+          "isSelected": false
+        },
+        {
+          "count": 7,
+          "id": "3497",
+          "name": "Farah",
+          "isSelected": false
+        },
+        {
+          "count": 10,
+          "id": "224",
+          "name": "French Connection",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "62829",
+          "name": "French Connection Mens",
+          "isSelected": false
+        },
+        {
+          "count": 11,
+          "id": "3735",
+          "name": "G-Star",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "21960",
+          "name": "GUESS Originals",
+          "isSelected": false
+        },
+        {
+          "count": 24,
+          "id": "12461",
+          "name": "Jack & Jones",
+          "isSelected": false
+        },
+        {
+          "count": 3,
+          "id": "14300",
+          "name": "Jaded London",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "391",
+          "name": "Lacoste",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "396",
+          "name": "Lee",
+          "isSelected": false
+        },
+        {
+          "count": 12,
+          "id": "401",
+          "name": "Levi's",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "15503",
+          "name": "LEVIS SKATEBOARDING",
+          "isSelected": false
+        },
+        {
+          "count": 3,
+          "id": "14423",
+          "name": "Liquor N Poker",
+          "isSelected": false
+        },
+        {
+          "count": 9,
+          "id": "13817",
+          "name": "New Look",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "15337",
+          "name": "Night Addict",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "14441",
+          "name": "ONLY & SONS",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "21706",
+          "name": "PACSUN",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "12456",
+          "name": "Pretty Green",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "13872",
+          "name": "PS Paul Smith",
+          "isSelected": false
+        },
+        {
+          "count": 14,
+          "id": "14126",
+          "name": "Pull&Bear",
+          "isSelected": false
+        },
+        {
+          "count": 3,
+          "id": "12769",
+          "name": "Reclaimed Vintage",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "12983",
+          "name": "River Island",
+          "isSelected": false
+        },
+        {
+          "count": 8,
+          "id": "14159",
+          "name": "Selected Homme",
+          "isSelected": false
+        },
+        {
+          "count": 3,
+          "id": "14920",
+          "name": "Sixth June",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "16494",
+          "name": "Stan Ray",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "13942",
+          "name": "The Ragged Priest",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "15631",
+          "name": "Tommy Jeans",
+          "isSelected": false
+        },
+        {
+          "count": 25,
+          "id": "16236",
+          "name": "Topman",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "746",
+          "name": "True Religion",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "16174",
+          "name": "Vintage Supply",
+          "isSelected": false
+        },
+        {
+          "count": 8,
+          "id": "14287",
+          "name": "Weekday",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "783",
+          "name": "WESC",
+          "isSelected": false
+        },
+        {
+          "count": 10,
+          "id": "3062",
+          "name": "Wrangler",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "attribute_1046",
+      "name": "Style",
+      "facetValues": [
+        {
+          "count": 96,
+          "id": "8195",
+          "name": "Skinny",
+          "isSelected": false
+        },
+        {
+          "count": 84,
+          "id": "8205",
+          "name": "Slim",
+          "isSelected": false
+        },
+        {
+          "count": 59,
+          "id": "8310",
+          "name": "Straight Leg",
+          "isSelected": false
+        },
+        {
+          "count": 40,
+          "id": "8430",
+          "name": "Tapered",
+          "isSelected": false
+        },
+        {
+          "count": 33,
+          "id": "8192",
+          "name": "Regular",
+          "isSelected": false
+        },
+        {
+          "count": 31,
+          "id": "8426",
+          "name": "Loose",
+          "isSelected": false
+        },
+        {
+          "count": 23,
+          "id": "8429",
+          "name": "Super Skinny",
+          "isSelected": false
+        },
+        {
+          "count": 15,
+          "id": "61468",
+          "name": "Other",
+          "isSelected": false
+        },
+        {
+          "count": 15,
+          "id": "8428",
+          "name": "Flare",
+          "isSelected": false
+        },
+        {
+          "count": 14,
+          "id": "8306",
+          "name": "Wide Leg",
+          "isSelected": false
+        },
+        {
+          "count": 11,
+          "id": "8335",
+          "name": "Cropped",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "8352",
+          "name": "Denim",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "72016",
+          "name": "Split",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "attribute_10143",
+      "name": "Product Fit",
+      "facetValues": [
+        {
+          "count": 1,
+          "id": "61457",
+          "name": "Extreme Super Skinny",
+          "isSelected": false
+        },
+        {
+          "count": 7,
+          "id": "53001",
+          "name": "Oversized",
+          "isSelected": false
+        },
+        {
+          "count": 52,
+          "id": "53002",
+          "name": "Regular",
+          "isSelected": false
+        },
+        {
+          "count": 31,
+          "id": "53003",
+          "name": "Relaxed",
+          "isSelected": false
+        },
+        {
+          "count": 99,
+          "id": "61453",
+          "name": "Skinny",
+          "isSelected": false
+        },
+        {
+          "count": 84,
+          "id": "61452",
+          "name": "Slim",
+          "isSelected": false
+        },
+        {
+          "count": 3,
+          "id": "53007",
+          "name": "Standard",
+          "isSelected": false
+        },
+        {
+          "count": 53,
+          "id": "61458",
+          "name": "Straight",
+          "isSelected": false
+        },
+        {
+          "count": 27,
+          "id": "61454",
+          "name": "Super Skinny",
+          "isSelected": false
+        },
+        {
+          "count": 36,
+          "id": "61459",
+          "name": "Tapered",
+          "isSelected": false
+        },
+        {
+          "count": 14,
+          "id": "61460",
+          "name": "Wide",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "base_colour",
+      "name": "Color",
+      "facetValues": [
+        {
+          "count": 212,
+          "id": "3",
+          "name": "Blue",
+          "isSelected": false
+        },
+        {
+          "count": 123,
+          "id": "4",
+          "name": "Black",
+          "isSelected": false
+        },
+        {
+          "count": 21,
+          "id": "16",
+          "name": "Gray",
+          "isSelected": false
+        },
+        {
+          "count": 21,
+          "id": "5",
+          "name": "White",
+          "isSelected": false
+        },
+        {
+          "count": 13,
+          "id": "33",
+          "name": "Navy",
+          "isSelected": false
+        },
+        {
+          "count": 8,
+          "id": "17",
+          "name": "Multi",
+          "isSelected": false
+        },
+        {
+          "count": 7,
+          "id": "37",
+          "name": "Neutral",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "2",
+          "name": "Green",
+          "isSelected": false
+        },
+        {
+          "count": 3,
+          "id": "9",
+          "name": "Pink",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "10",
+          "name": "Brown",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "attribute_11317",
+      "name": "Denim Wash Color",
+      "facetValues": [
+        {
+          "count": 173,
+          "id": "6944",
+          "name": "Dark Wash",
+          "isSelected": false
+        },
+        {
+          "count": 125,
+          "id": "60744",
+          "name": "Mid Wash",
+          "isSelected": false
+        },
+        {
+          "count": 73,
+          "id": "60743",
+          "name": "Light Wash",
+          "isSelected": false
+        },
+        {
+          "count": 27,
+          "id": "61440",
+          "name": "Colored Denim",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "5677",
+          "name": "Acid Wash",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "attribute_10155",
+      "name": "Body Fit",
+      "facetValues": [
+        {
+          "count": 394,
+          "id": "6764",
+          "name": "Main Collection",
+          "isSelected": false
+        },
+        {
+          "count": 74,
+          "id": "7699",
+          "name": "Plus Size",
+          "isSelected": false
+        },
+        {
+          "count": 30,
+          "id": "6399",
+          "name": "Tall",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "size",
+      "name": "Size",
+      "facetValues": [
+        {
+          "count": 1,
+          "id": "1597",
+          "name": "W24",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "1621",
+          "name": "W26",
+          "isSelected": false
+        },
+        {
+          "count": 23,
+          "id": "461",
+          "name": "W26 L30",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "473",
+          "name": "W26 L32",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "497",
+          "name": "W27 L30",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "509",
+          "name": "W27 L32",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "521",
+          "name": "W27 L34",
+          "isSelected": false
+        },
+        {
+          "count": 11,
+          "id": "1645",
+          "name": "W28",
+          "isSelected": false
+        },
+        {
+          "count": 52,
+          "id": "533",
+          "name": "W28 L30",
+          "isSelected": false
+        },
+        {
+          "count": 129,
+          "id": "545",
+          "name": "W28 L32",
+          "isSelected": false
+        },
+        {
+          "count": 31,
+          "id": "557",
+          "name": "W28 L34",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "1318",
+          "name": "W28 L36",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "1657",
+          "name": "W29",
+          "isSelected": false
+        },
+        {
+          "count": 21,
+          "id": "569",
+          "name": "W29 L30",
+          "isSelected": false
+        },
+        {
+          "count": 51,
+          "id": "581",
+          "name": "W29 L32",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "593",
+          "name": "W29 L34",
+          "isSelected": false
+        },
+        {
+          "count": 7,
+          "id": "1669",
+          "name": "W30",
+          "isSelected": false
+        },
+        {
+          "count": 64,
+          "id": "605",
+          "name": "W30 L30",
+          "isSelected": false
+        },
+        {
+          "count": 164,
+          "id": "617",
+          "name": "W30 L32",
+          "isSelected": false
+        },
+        {
+          "count": 88,
+          "id": "629",
+          "name": "W30 L34",
+          "isSelected": false
+        },
+        {
+          "count": 8,
+          "id": "1366",
+          "name": "W30 L36",
+          "isSelected": false
+        },
+        {
+          "count": 3,
+          "id": "1681",
+          "name": "W31",
+          "isSelected": false
+        },
+        {
+          "count": 13,
+          "id": "641",
+          "name": "W31 L30",
+          "isSelected": false
+        },
+        {
+          "count": 62,
+          "id": "653",
+          "name": "W31 L32",
+          "isSelected": false
+        },
+        {
+          "count": 25,
+          "id": "665",
+          "name": "W31 L34",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "1693",
+          "name": "W32",
+          "isSelected": false
+        },
+        {
+          "count": 37,
+          "id": "677",
+          "name": "W32 L30",
+          "isSelected": false
+        },
+        {
+          "count": 139,
+          "id": "689",
+          "name": "W32 L32",
+          "isSelected": false
+        },
+        {
+          "count": 87,
+          "id": "701",
+          "name": "W32 L34",
+          "isSelected": false
+        },
+        {
+          "count": 8,
+          "id": "1414",
+          "name": "W32 L36",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "1705",
+          "name": "W33",
+          "isSelected": false
+        },
+        {
+          "count": 10,
+          "id": "713",
+          "name": "W33 L30",
+          "isSelected": false
+        },
+        {
+          "count": 47,
+          "id": "725",
+          "name": "W33 L32",
+          "isSelected": false
+        },
+        {
+          "count": 10,
+          "id": "737",
+          "name": "W33 L34",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "1717",
+          "name": "W34",
+          "isSelected": false
+        },
+        {
+          "count": 22,
+          "id": "749",
+          "name": "W34 L30",
+          "isSelected": false
+        },
+        {
+          "count": 75,
+          "id": "761",
+          "name": "W34 L32",
+          "isSelected": false
+        },
+        {
+          "count": 46,
+          "id": "773",
+          "name": "W34 L34",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "1462",
+          "name": "W34 L36",
+          "isSelected": false
+        },
+        {
+          "count": 9,
+          "id": "1741",
+          "name": "W36",
+          "isSelected": false
+        },
+        {
+          "count": 9,
+          "id": "821",
+          "name": "W36 L30",
+          "isSelected": false
+        },
+        {
+          "count": 45,
+          "id": "833",
+          "name": "W36 L32",
+          "isSelected": false
+        },
+        {
+          "count": 35,
+          "id": "845",
+          "name": "W36 L34",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "1510",
+          "name": "W36 L36",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "1753",
+          "name": "W38",
+          "isSelected": false
+        },
+        {
+          "count": 11,
+          "id": "4579",
+          "name": "W38 L30",
+          "isSelected": false
+        },
+        {
+          "count": 42,
+          "id": "4591",
+          "name": "W38 L32",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "4603",
+          "name": "W38 L34",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "1534",
+          "name": "W38 L36",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "4618",
+          "name": "W40 L30",
+          "isSelected": false
+        },
+        {
+          "count": 22,
+          "id": "4630",
+          "name": "W40 L32",
+          "isSelected": false
+        },
+        {
+          "count": 7,
+          "id": "4642",
+          "name": "W40 L34",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "11962",
+          "name": "W42",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "4678",
+          "name": "W42 L30",
+          "isSelected": false
+        },
+        {
+          "count": 19,
+          "id": "4690",
+          "name": "W42 L32",
+          "isSelected": false
+        },
+        {
+          "count": 4,
+          "id": "4702",
+          "name": "W42 L34",
+          "isSelected": false
+        },
+        {
+          "count": 2,
+          "id": "4738",
+          "name": "W44 L30",
+          "isSelected": false
+        },
+        {
+          "count": 17,
+          "id": "4750",
+          "name": "W44 L32",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "4762",
+          "name": "W44 L34",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "4798",
+          "name": "W46 L30",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "4810",
+          "name": "W46 L32",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "5131",
+          "name": "2XS",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "5179",
+          "name": "XS",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "4421",
+          "name": "S",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "4409",
+          "name": "M",
+          "isSelected": false
+        },
+        {
+          "count": 6,
+          "id": "5155",
+          "name": "L",
+          "isSelected": false
+        },
+        {
+          "count": 5,
+          "id": "5167",
+          "name": "XL",
+          "isSelected": false
+        },
+        {
+          "count": 12,
+          "id": "5119",
+          "name": "2XL",
+          "isSelected": false
+        },
+        {
+          "count": 10,
+          "id": "5143",
+          "name": "3XL",
+          "isSelected": false
+        },
+        {
+          "count": 9,
+          "id": "5191",
+          "name": "4XL",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Single-Column",
+      "facetType": "TextMultiSelect",
+      "hasSelectedValues": false
+    },
+    {
+      "id": "currentprice",
+      "name": "Price Range",
+      "facetValues": [
+        {
+          "count": 1,
+          "id": "11.74",
+          "name": "11.74",
+          "isSelected": false
+        },
+        {
+          "count": 1,
+          "id": "140.0",
+          "name": "140.0",
+          "isSelected": false
+        }
+      ],
+      "displayStyle": "Price-Slider",
+      "facetType": "Range",
+      "hasSelectedValues": false
+    }
+  ]
+}
