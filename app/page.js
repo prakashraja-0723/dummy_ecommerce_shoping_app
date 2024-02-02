@@ -1,12 +1,13 @@
 import Image from "next/image";
 import Link from "next/link";
 import BOOTIQ_white_logo from "./assets/svg/BOOTIQ_white.svg";
+import Home from "@/app/home/page";
 
 export default function Index() {
   return (
     <>
       <main
-        className={` bg-hero-gradient bg-center bg-cover h-screen w-screen overflow-hidden`}
+        className={` bg-hero-gradient bg-center bg-cover h-screen w-screen overflow-hidden lg:hidden`}
       >
         <Image
           src={BOOTIQ_white_logo}
@@ -36,6 +37,9 @@ export default function Index() {
         <Link href={'/sign_in'} className={`w-6/12 h-10 bg-primary rounded-full flex items-center justify-center uppercase text-black font-semibold mt-24 relative left-1/2 -translate-x-1/2`}>sign in</Link>
         </div>
       </main>
+      <div className={`hidden lg:block`}>
+      <Home/>          
+      </div>
     </>
   );
 }
