@@ -59,7 +59,7 @@ export default function Cart({isToggleModel,setIsToggleModel}) {
             >Checkout</button>
           </div>
           <main
-            className={`bg-[rgba(0,0,0,0.75)] fixed top-0 w-screen h-screen  transition-all ${
+            className={`bg-[rgba(0,0,0,0.75)] fixed top-0 left-0 w-screen h-screen  transition-all ${
               isToggleModel ? `block scale-100` :`hidden scale-0`
             }h-screen w-screen z-50 flex items-center justify-center`}
           >
