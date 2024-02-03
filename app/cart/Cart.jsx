@@ -29,25 +29,25 @@ export default function Cart({isToggleModel,setIsToggleModel}) {
       )}
       {addProduct.length !== 0 && (
         <>
-          <div className={`flex items-center justify-between w-full pr-4`}>
-          
-          <h1
-            className={`text-base lg:text-xl font-bold text-center w-fit border-l-4 border-amber-300 bg-amber-50 px-3 lg:px-6 h-8 lg:h-11 flex items-center justify-center ml-4`}
-          >
-            Total Item : {addProduct.length}
-          </h1>
-          <div
-            className={`h-7 lg:h-10  bg-red-500 active:bg-red-600 rounded-[5px] right-6 flex items-center justify-center font-semibold text-white shadow`}
-            onClick={handleDeleteAllCartItem}
-          >
-            <button className={`w-fit px-3 text-sm lg:text-base lg:px-5`}>Clear All</button>
-          </div>
+          <div className={`flex items-center justify-between w-full pr-4 `}>
+            
+            <h1
+              className={`text-base lg:text-xl font-bold text-center w-fit border-l-4 border-amber-300 bg-amber-50 px-3 lg:px-6 h-8 lg:h-11 flex items-center justify-center ml-4`}
+            >
+              Total Item : {addProduct.length}
+            </h1>
+            <div
+              className={`h-7 lg:h-10  bg-red-500 active:bg-red-600 rounded-[5px] right-6 flex items-center justify-center font-semibold text-white shadow`}
+              onClick={handleDeleteAllCartItem}
+            >
+              <button className={`w-fit px-3 text-sm lg:text-base lg:px-5`}>Clear All</button>
+            </div>
           </div>
           <div
             className={`grid grid-flow-row lg:grid-cols-2 place-items-start w-full lg:px-10 rounded-xl *:border *:shadow *:h-40 *:lg:h-60  gap-5 p-5 relative mb-14`}
           >
             {addProduct.map((item, index) => {
-              return <CartItem item={item} key={item.id} index={index} />;
+              return <CartItem item={item} key={item.id} index={index}/>;
             })}
             
           </div>
@@ -60,7 +60,7 @@ export default function Cart({isToggleModel,setIsToggleModel}) {
           </div>
           <main
             className={`bg-[rgba(0,0,0,0.75)] fixed top-0 left-0 w-screen h-screen  transition-all ${
-              isToggleModel ? `block scale-100` :`hidden scale-0`
+              isToggleModel ? `block scale-100` : `hidden scale-0`
             } h-screen w-screen z-50 flex items-center justify-center`}
           >
             <Checkout isToggleModel={isToggleModel} setIsToggleModel={setIsToggleModel} />
