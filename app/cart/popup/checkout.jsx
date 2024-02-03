@@ -18,6 +18,7 @@ export default function Checkout({isToggleModel,setIsToggleModel}) {
 	const handleCheckout = (products) => {
 		dispatch(clearCart())
 		dispatch(setTotal(products))
+		window.location.href = "/home"
 	};
 	
 	const handleToggleModel = () => {
